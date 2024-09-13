@@ -1,6 +1,6 @@
-**Hi**, I’m @Ninorp 👋
+**Hi**, 👋
 
-I’m interested in Python, C# and Rust 👀
+I’m interested in Python and C# 👀💻
 
 
 <!---
